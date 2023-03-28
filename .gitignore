@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# production
+lib/
+
+# testing
+/coverage
+/storybook-static
+
+.env
+test-site/.env
